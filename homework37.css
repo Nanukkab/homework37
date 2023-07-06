@@ -1,0 +1,108 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+    background-color: #DD424C;
+    margin: 0;
+    padding: 0;
+}
+.box1{
+    width: 905px;
+    height: 1089px;
+    background-color: #171717;
+}
+
+.box2{
+    width: 483px;
+    height: 330px;
+}
+
+.image1{
+    width: 400px;
+    height: 175px;
+    margin-left: 183px;
+    margin-top: 311px;
+}
+
+.text1{
+    font-size: 35px;
+    color: white;
+    margin-left: 191px;
+    margin-top: 40px;
+}
+
+.box3{
+    width: 638px;
+    height: 636px;
+    background-color: #EAEAEA;
+    border-radius: 20px;
+    border: none; 
+    margin-left: 700px;
+    margin-top: -100px;
+}
+
+.circle2{
+    margin-left: -23px;
+    margin-top: -10px;
+}
+
+.hello{
+    font-size: 40px;
+    margin-top: -30px;
+}
+.text2{
+    color: #8C8C8C;
+}
+
+
+.email, .Password {
+    width: 450px;
+    height: 71px;
+    border-radius: 60px;
+    border: none;
+    background-color: white;
+    margin-top: 30px;
+    padding-left: 30px;
+}
+
+.box4{
+    width: 20px;
+    height: 20px;
+    border-radius: 2px;
+    background-color: white;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.text3{
+    margin-left: 130px;
+    margin-top: -20px;
+}
+
+.text4{
+    color: #DD424C;
+    margin-left: 415px;
+    margin-top: -35px;
+}
+.button{
+    width: 450px;
+    height: 60px;
+    background-color: #171717;
+    border: none;
+    border-radius: 60px;
+    margin-top: 25px;
+    font-size: 20px;
+}
+
+.login{
+    color: white;
+}
+.sign{
+    margin-top: 30px;
+}
+.color{
+    color:  #DD424C;
+}
